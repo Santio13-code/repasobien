@@ -10,6 +10,6 @@ package repaso;
  */
 public class mora {
     public static void main(String[] args) {
-        System.out.println("Hola");
+        
     }
 }
